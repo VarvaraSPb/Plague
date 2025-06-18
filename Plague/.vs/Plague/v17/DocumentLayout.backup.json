@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\79214\\source\\repos\\Plague\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{310855EE-548D-4CC4-9130-4A5D64BFA0DD}|Plague.vcxproj|C:\\Users\\79214\\source\\repos\\Plague\\Battle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{310855EE-548D-4CC4-9130-4A5D64BFA0DD}|Plague.vcxproj|solutionrelative:Battle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{310855EE-548D-4CC4-9130-4A5D64BFA0DD}|Plague.vcxproj|C:\\Users\\79214\\source\\repos\\Plague\\Location.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{310855EE-548D-4CC4-9130-4A5D64BFA0DD}|Plague.vcxproj|solutionrelative:Location.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{310855EE-548D-4CC4-9130-4A5D64BFA0DD}|Plague.vcxproj|C:\\Users\\79214\\source\\repos\\Plague\\Location.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{310855EE-548D-4CC4-9130-4A5D64BFA0DD}|Plague.vcxproj|solutionrelative:Location.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{310855EE-548D-4CC4-9130-4A5D64BFA0DD}|Plague.vcxproj|C:\\Users\\79214\\source\\repos\\Plague\\Inventory.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{310855EE-548D-4CC4-9130-4A5D64BFA0DD}|Plague.vcxproj|solutionrelative:Inventory.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{310855EE-548D-4CC4-9130-4A5D64BFA0DD}|Plague.vcxproj|C:\\Users\\79214\\source\\repos\\Plague\\Battle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{310855EE-548D-4CC4-9130-4A5D64BFA0DD}|Plague.vcxproj|solutionrelative:Battle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{310855EE-548D-4CC4-9130-4A5D64BFA0DD}|Plague.vcxproj|C:\\Users\\79214\\source\\repos\\Plague\\GameLoop.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{310855EE-548D-4CC4-9130-4A5D64BFA0DD}|Plague.vcxproj|solutionrelative:GameLoop.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{310855EE-548D-4CC4-9130-4A5D64BFA0DD}|Plague.vcxproj|C:\\Users\\79214\\source\\repos\\Plague\\GameLoop.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{310855EE-548D-4CC4-9130-4A5D64BFA0DD}|Plague.vcxproj|solutionrelative:GameLoop.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{310855EE-548D-4CC4-9130-4A5D64BFA0DD}|Plague.vcxproj|C:\\Users\\79214\\source\\repos\\Plague\\Character.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{310855EE-548D-4CC4-9130-4A5D64BFA0DD}|Plague.vcxproj|solutionrelative:Character.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{310855EE-548D-4CC4-9130-4A5D64BFA0DD}|Plague.vcxproj|C:\\Users\\79214\\source\\repos\\Plague\\Character.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{310855EE-548D-4CC4-9130-4A5D64BFA0DD}|Plague.vcxproj|solutionrelative:Character.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{310855EE-548D-4CC4-9130-4A5D64BFA0DD}|Plague.vcxproj|C:\\Users\\79214\\source\\repos\\Plague\\Inventory.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{310855EE-548D-4CC4-9130-4A5D64BFA0DD}|Plague.vcxproj|solutionrelative:Inventory.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{310855EE-548D-4CC4-9130-4A5D64BFA0DD}|Plague.vcxproj|C:\\Users\\79214\\source\\repos\\Plague\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{310855EE-548D-4CC4-9130-4A5D64BFA0DD}|Plague.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GameLoop.cpp",
+              "DocumentMoniker": "C:\\Users\\79214\\source\\repos\\Plague\\GameLoop.cpp",
+              "RelativeDocumentMoniker": "GameLoop.cpp",
+              "ToolTip": "C:\\Users\\79214\\source\\repos\\Plague\\GameLoop.cpp",
+              "RelativeToolTip": "GameLoop.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-18T14:34:39.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameLoop.h",
+              "DocumentMoniker": "C:\\Users\\79214\\source\\repos\\Plague\\GameLoop.h",
+              "RelativeDocumentMoniker": "GameLoop.h",
+              "ToolTip": "C:\\Users\\79214\\source\\repos\\Plague\\GameLoop.h",
+              "RelativeToolTip": "GameLoop.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-18T14:33:18.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Location.h",
+              "DocumentMoniker": "C:\\Users\\79214\\source\\repos\\Plague\\Location.h",
+              "RelativeDocumentMoniker": "Location.h",
+              "ToolTip": "C:\\Users\\79214\\source\\repos\\Plague\\Location.h",
+              "RelativeToolTip": "Location.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-18T14:29:56.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Location.cpp",
+              "DocumentMoniker": "C:\\Users\\79214\\source\\repos\\Plague\\Location.cpp",
+              "RelativeDocumentMoniker": "Location.cpp",
+              "ToolTip": "C:\\Users\\79214\\source\\repos\\Plague\\Location.cpp",
+              "RelativeToolTip": "Location.cpp",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-18T14:30:42.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Inventory.h",
+              "DocumentMoniker": "C:\\Users\\79214\\source\\repos\\Plague\\Inventory.h",
+              "RelativeDocumentMoniker": "Inventory.h",
+              "ToolTip": "C:\\Users\\79214\\source\\repos\\Plague\\Inventory.h",
+              "RelativeToolTip": "Inventory.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-18T14:10:03.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Inventory.cpp",
+              "DocumentMoniker": "C:\\Users\\79214\\source\\repos\\Plague\\Inventory.cpp",
+              "RelativeDocumentMoniker": "Inventory.cpp",
+              "ToolTip": "C:\\Users\\79214\\source\\repos\\Plague\\Inventory.cpp",
+              "RelativeToolTip": "Inventory.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-18T14:09:57.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Character.h",
+              "DocumentMoniker": "C:\\Users\\79214\\source\\repos\\Plague\\Character.h",
+              "RelativeDocumentMoniker": "Character.h",
+              "ToolTip": "C:\\Users\\79214\\source\\repos\\Plague\\Character.h",
+              "RelativeToolTip": "Character.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-18T13:55:04.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Character.cpp",
+              "DocumentMoniker": "C:\\Users\\79214\\source\\repos\\Plague\\Character.cpp",
+              "RelativeDocumentMoniker": "Character.cpp",
+              "ToolTip": "C:\\Users\\79214\\source\\repos\\Plague\\Character.cpp",
+              "RelativeToolTip": "Character.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-18T13:43:09.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Battle.h",
+              "DocumentMoniker": "C:\\Users\\79214\\source\\repos\\Plague\\Battle.h",
+              "RelativeDocumentMoniker": "Battle.h",
+              "ToolTip": "C:\\Users\\79214\\source\\repos\\Plague\\Battle.h",
+              "RelativeToolTip": "Battle.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAkwA8AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-18T14:17:31.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Battle.cpp",
+              "DocumentMoniker": "C:\\Users\\79214\\source\\repos\\Plague\\Battle.cpp",
+              "RelativeDocumentMoniker": "Battle.cpp",
+              "ToolTip": "C:\\Users\\79214\\source\\repos\\Plague\\Battle.cpp",
+              "RelativeToolTip": "Battle.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-18T12:20:22.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\79214\\source\\repos\\Plague\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\79214\\source\\repos\\Plague\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-18T14:11:58.541Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
